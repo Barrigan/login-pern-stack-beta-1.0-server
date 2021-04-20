@@ -1,0 +1,9 @@
+{
+    "AWS": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "region": "",
+        "SenderEmailId": ""
+    },
+    "port": 3500
+}
